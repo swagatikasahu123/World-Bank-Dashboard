@@ -1,4 +1,4 @@
-🌍 /*World Bank Dashboard*/
+🌍 *World Bank Dashboard*
 Project Description
 
 This project is a web-based interactive dashboard that fetches global development data from the World Bank Open Data API and displays it in a visual format. The dashboard is designed for data exploration and provides dynamic filters to analyze population and GDP trends across multiple countries over time.
